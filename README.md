@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kemal Kandemir</h1>
+<h1 align="center">Hi there, I'm Kemal Kandemir</h1>
 <h3 align="center">Electrical and Electronics Engineer, MSc - Programmer</h3>
 <h5 align="center">I completed my bachelor's and master's degrees in electrical and electronics
 engineering at Akdeniz University (Antalya/Turkey). I have even working as a software
