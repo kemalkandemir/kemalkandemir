@@ -4,7 +4,7 @@
 </h5>
 
 
-- 💬 Ask me about ** Automotive Software,IoT, digital image processing**
+- 💬 Ask me about ** Automotive Software, IoT, digital image processing**
 
 - 📫 How to reach me **kemalkandemir07@gmail.com**
 
