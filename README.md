@@ -1,14 +1,7 @@
 <h1 align="center">Hi there, I'm Kemal Kandemir</h1>
 <h3 align="center">Electrical and Electronics Engineer, MSc - Programmer</h3>
-<h5 align="center">I completed my bachelor's and master's degrees in electrical and electronics
-engineering at Akdeniz University (Antalya/Turkey). I have even working as a software
-engineer for more than five years at Innolife Mechatronics Engineering and Consulting
-Company (İzmir/Turkey). I develop software applications with C, Python, NodeJS, and
-JavaScript. Thus, I can be a flexible team player who can take on different positions. My
-main working field is IoT and I develop robots for various companies. I used to work on
-biomedical image processing besides artificial intelligence applications for my masters
-studies. My specific passions include image processing, artificial intelligence, IoT, and
-robotics.</h5>
+<h5 align="center">I am currently working as a Software Engineer at Nesan Technology Inc., actively involved in the planning, design, and development of specialized software for the automotive industry. Collaborating with our team, we produce software solutions tailored to the specific requirements of the automotive sector, striving to integrate the latest automotive technologies into our projects. Previously, I engaged in IoT projects and developed robots for various companies that are in the market now at Innolife Mechatronics Engineering and Consultancy Company. I completed my bachelor's and master's degrees in Electrical-Electronics Engineering at Akdeniz University in Antalya, Turkey, focusing on artificial intelligence applications and biomedical image processing during my postgraduate studies. I can be a flexible team player who can take on different positions. My versatile career path aims to harmonize academic insights with practical skills, particularly to adapt to the dynamic environment of the automotive industry. My dedication to innovations in image processing, artificial intelligence, IoT, and robotics reinforces a strong commitment to pioneering solutions specifically tailored to the automotive industry
+</h5>
 
 
 - 💬 Ask me about **IoT, digital image processing**
